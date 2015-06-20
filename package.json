@@ -1,0 +1,37 @@
+{
+  "name": "git-auto-commit",
+  "version": "1.0.0",
+  "description": "A git auto commit toll",
+  "bin": {
+    "gac": "./index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "auto",
+    "commit",
+    "tool"
+  ],
+  "author": "skyinlayer",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.8.1",
+    "promise": "^7.0.3"
+  },
+  "_shasum": "136300cd8949312f951ea3e097b2ec919edbd59f",
+  "_from": "../../Users/lingyu/github/git-auto-commit",
+  "_resolved": "file:../../Users/lingyu/github/git-auto-commit",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LingyuCoder/git-auto-commit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LingyuCoder/git-auto-commit/issues"
+  },
+  "homepage": "https://github.com/LingyuCoder/git-auto-commit#readme"
+}

@@ -1,7 +1,7 @@
 {
   "name": "git-auto-commit",
-  "version": "1.0.0",
-  "description": "A git auto commit toll",
+  "version": "1.0.1",
+  "description": "A git auto commit tool",
   "bin": {
     "gac": "./index.js"
   },
